@@ -158,9 +158,7 @@ int main(void)
 
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
-  while (1)
-  {
-	  setTimer1(1);
+	    setTimer1(1);
 	    setTimer2(1);
 	    setTimer3(100);
 	    while (1)
