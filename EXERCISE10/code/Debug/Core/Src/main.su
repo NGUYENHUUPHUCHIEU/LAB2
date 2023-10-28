@@ -1,0 +1,14 @@
+main.c:98:16:setCol	16	static
+main.c:66:5:main	88	static
+main.c:108:16:setRow	16	static
+main.c:118:16:setmatrix	16	static
+main.c:128:10:updateLEDMatrix	40	static
+main.c:170:12:display7SEG	32	static
+main.c:175:12:pinenable	16	static
+main.c:204:12:updateClockBuffer	16	static
+main.c:210:12:update7SEG	24	static
+main.c:295:6:SystemClock_Config	72	static
+main.c:331:13:MX_TIM2_Init	32	static
+main.c:376:13:MX_GPIO_Init	32	static
+main.c:425:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:434:6:Error_Handler	4	static,ignoring_inline_asm
